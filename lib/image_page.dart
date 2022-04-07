@@ -9,7 +9,7 @@ class ImagePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Image Page'),
+        title: const Text(''),
       ),
       body: Padding(
         padding: const EdgeInsets.all(4),
